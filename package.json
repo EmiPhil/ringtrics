@@ -2,7 +2,7 @@
   "name": "ringtrics",
   "version": "1.0.0",
   "description": "Numerical array structure for metric oriented things",
-  "main": "./src/ringtrics.js",
+  "main": "index.js",
   "scripts": {
     "test": "tap -w --100"
   },

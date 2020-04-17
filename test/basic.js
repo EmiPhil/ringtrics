@@ -1,5 +1,5 @@
 const tap = require('tap')
-const R = require('../src/Ringtrics')
+const R = require('../index')
 
 tap.pass('Test suite loaded')
 
