@@ -1,0 +1,25 @@
+{
+  "name": "ringtrics",
+  "version": "1.0.0",
+  "description": "Numerical array structure for metric oriented things",
+  "main": "./src/ringtrics.js",
+  "scripts": {
+    "test": "tap -w --100"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/EmiPhil/ringtrics.git"
+  },
+  "keywords": [
+    "node"
+  ],
+  "author": "EmiPhil",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/EmiPhil/ringtrics/issues"
+  },
+  "homepage": "https://github.com/EmiPhil/ringtrics#readme",
+  "devDependencies": {
+    "tap": "^14.10.7"
+  }
+}
