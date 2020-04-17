@@ -1,6 +1,6 @@
 {
   "name": "ringtrics",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Numerical array structure for metric oriented things",
   "main": "index.js",
   "scripts": {
